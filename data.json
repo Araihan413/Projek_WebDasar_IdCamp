@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "type_hewan": "liar",
+      "data": [
+        {
+          "id": "1",
+          "nama": "Beruang",
+          "gambar_artikel": "beruang.jpg",
+          "gambar_card": "beruang-card.jpg",
+          "deskripsi": "Beruang adalah mamalia besar yang umumnya hidup di hutan atau daerah pegunungan. Mereka memiliki tubuh kekar, dengan cakar kuat yang berguna untuk memanjat pohon, menggali, dan menangkap mangsa. Beruang terkenal dengan bulu tebalnya yang membuatnya bertahan dalam suhu rendah, terutama spesies yang hidup di daerah kutub dan pegunungan. Beruang termasuk hewan omnivora, mengonsumsi berbagai makanan seperti ikan, daging, buah-buahan, dan tumbuhan.",
+          "fakta_menarik": "Beruang Kutub dikenal dengan kemampuan indra penciumannya yang sangat tajam, sehingga mampu mencium bau anjing laut dari jarak hingga 1,6 kilometer. Selain itu, beruang juga diketahui mampu berhibernasi selama musim dingin, di mana tubuh mereka mengalami penurunan metabolisme dan mereka bertahan tanpa makan selama berbulan-bulan."
+        },
+        {
+          "id": "2",
+          "nama": "Singa",
+          "gambar_artikel": "singa.jpg",
+          "gambar_card": "singa-card.jpg",
+          "deskripsi": "Singa adalah hewan karnivora yang dikenal sebagai 'raja hutan'. Mereka hidup dalam kelompok atau kawanan yang disebut 'pride' dan biasanya mendominasi wilayah padang rumput di Afrika. Singa jantan memiliki surai (rambut tebal di sekitar leher) yang berfungsi untuk melindungi lehernya saat bertarung.",
+          "fakta_menarik": "Hanya singa betina yang berburu untuk mencari makanan bagi kelompoknya. Sementara itu, singa jantan bertanggung jawab untuk melindungi wilayah dari ancaman luar."
+        },
+        {
+          "id": "3",
+          "nama": "Serigala",
+          "gambar_artikel": "serigala.jpg",
+          "gambar_card": "serigala-card.jpg",
+          "deskripsi": "Serigala adalah karnivora sosial yang hidup dalam kelompok yang disebut kawanan. Mereka memiliki struktur sosial yang kompleks dan biasanya berburu bersama untuk memperoleh makanan. Serigala dikenal cerdas dan memiliki kemampuan untuk beradaptasi di berbagai jenis lingkungan, mulai dari hutan, gurun, hingga tundra yang dingin.",
+          "fakta_menarik": "Serigala memiliki indra penciuman yang 100 kali lebih tajam daripada manusia. Mereka juga mampu mendeteksi tanda-tanda bau yang sangat halus, yang membantu mereka dalam berburu dan mempertahankan wilayah."
+        },
+        {
+          "id": "4",
+          "nama": "Gajah",
+          "gambar_artikel": "gajah.jpg",
+          "gambar_card": "gajah-card.jpg",
+          "deskripsi": "Gajah adalah mamalia darat terbesar yang masih hidup di dunia. Mereka memiliki ciri khas berupa belalai panjang yang digunakan untuk makan, minum, dan berinteraksi dengan lingkungannya. Telinga besar pada gajah membantu mengatur suhu tubuh mereka di lingkungan panas. Gajah adalah hewan sosial yang hidup dalam kawanan yang biasanya dipimpin oleh betina tua. Mereka juga terkenal dengan daya ingat yang sangat baik dan ikatan emosional yang kuat dalam kelompoknya.",
+          "fakta_menarik": "Gajah adalah satu-satunya mamalia yang tidak bisa melompat. Selain itu, mereka dapat berkomunikasi melalui suara rendah yang hanya dapat didengar oleh gajah lain dalam jarak beberapa kilometer."
+        }
+      ]
+    },
+    {
+      "type_hewan": "ternak",
+      "data": [
+        {
+          "id": "1",
+          "nama": "Kambing",
+          "gambar_artikel": "kambing.jpg",
+          "gambar_card": "kambing-card.jpg",
+          "deskripsi": "Kambing merupakan salah satu subspesies yang dipelihara atau dijinakkan dari kambing liar Asia Barat Daya dan Eropa Timur. Kambing merupakan anggota dari keluarga Bovidae dan bersaudara dengan biri-biri karena keduanya tergolong dalam sub famili Caprinae. Terdapat lebih 300 jenis kambing yang berbeda-beda.Kambing adalah salah satu di antara spesies yang paling lama diternakkan, yaitu untuk susu, daging, bulu, dan kulit di seluruh dunia. Pada tahun 2011, populasi kambing yang hidup di seluruh dunia mencapai 924 juta menurut Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa.",
+          "fakta_menarik": "Kambing memiliki pupil mata berbentuk horizontal yang membantu mereka melihat sekeliling dengan sudut pandang yang luas."
+        },
+        {
+          "id": "2",
+          "nama": "Sapi",
+          "gambar_artikel": "sapi.jpg",
+          "gambar_card": "sapi-card.jpg",
+          "deskripsi": "Sapi adalah hewan ternak anggota famili Bovidae dan subfamili Bovinae. Sapi dipelihara terutama untuk dimanfaatkan susu dan dagingnya sebagai pangan manusia. Hasil sampingannya seperti kulit, jeroan, tanduk, dan kotorannya juga dimanfaatkan untuk berbagai keperluan manusia. Di sejumlah tempat sapi juga dipakai sebagai penggerak alat transportasi, pengolahan lahan tanam (bajak), dan alat industri lain (seperti peremas tebu). Karena banyak kegunaan ini, sapi telah menjadi bagian dari berbagai kebudayaan manusia sejak lama. Bahkan, kegiatan kebudayaan yang menggunakan sapi pun masih banyak.",
+          "fakta_menarik": "Sapi dapat mengenali hingga 100 wajah sapi lain dalam kawanannya, menunjukkan bahwa mereka memiliki daya ingat yang kuat."
+        },
+        {
+          "id": "3",
+          "nama": "Bebek",
+          "gambar_artikel": "bebek.jpg",
+          "gambar_card": "bebek-card.jpg",
+          "deskripsi": "Bebek atau itik adalah nama umum untuk beberapa spesies burung dalam famili Anatidae. Itik umumnya berukuran lebih kecil dan berleher lebih pendek dibandingkan soang dan angsa, yang merupakan anggota satu keluarga. Terbagi menjadi beberapa subfamili, mereka merupakan bentuk takson; mereka tidak mewakili kelompok monofiletik (kelompok yang terdiri dari semua keturunan dari satu spesies nenek moyang yang sama), karena angsa dan soang tidak dianggap bebek. Bebek sebagian besar adalah burung air, dan dapat ditemukan di air tawar dan air laut. Bebek memakan makanan yang bervariasi, seperti rumput, tanaman air, ikan, serangga, amfibi kecil, cacing, dan moluska kecil. Bebek penyelam dan bebek laut mencari makanan di kedalaman air. Untuk memudahkan mereka dalam menyelam, kedua jenis bebek tersebut memiliki massa yang lebih besar sehingga mereka lebih sulit untuk terbang.",
+          "fakta_menarik": "Bebek memiliki mekanisme waterproofing alami pada bulunya yang membuat mereka tetap kering."
+        },
+        {
+          "id": "4",
+          "nama": "Ayam",
+          "gambar_artikel": "ayam.jpg",
+          "gambar_card": "ayam-card.jpg",
+          "deskripsi": "Ayam adalah binatang unggas dari ordo Galliformes yang biasa dipelihara untuk dimanfaatkan daging, telur, dan bulunya. Ayam peliharaan merupakan keturunan langsung dari salah satu subspesies ayam hutan yang dikenal sebagai ayam hutan merah (Gallus gallus) atau ayam bangkiwa (bankiva fowl) yang didomestikasikan dan berasal dari Asia Tenggara. Kawin silang antar ras ayam telah menghasilkan ratusan galur unggul atau galur murni dengan bermacam-macam fungsi; yang paling umum adalah ayam potong (untuk dipotong) dan ayam petelur (untuk diambil telurnya). Ayam biasa dapat pula dikawin silang dengan kerabat dekatnya, ayam hutan hijau, yang menghasilkan hibrida mandul yang jantannya dikenal sebagai ayam bekisar.",
+          "fakta_menarik": "Ayam dapat mengingat lebih dari 100 wajah, termasuk wajah manusia."
+        }
+      ]
+    },
+    {
+      "type_hewan": "peliharaan",
+      "data": [
+        {
+          "id": "1",
+          "nama": "Kucing",
+          "gambar_artikel": "kucing.jpg",
+          "gambar_card": "kucing-card.jpg",
+          "deskripsi": "Kucing adalah sejenis mamalia karnivora dari keluarga Felidae. Kata 'kucing' biasanya merujuk kepada 'kucing' yang telah dijinakkan, tetapi bisa juga bisa merujuk kepada 'kucing besar' seperti singa dan harimau yang juga termasuk jenis kucing. Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 5.000 tahun sebelum masehi, dengan ditemukannya kerangka kucing di Pulau Siprus. Sejak zaman 3.500 sebelum masehi orang Mesir Kuno telah menggunakan kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil panen. Saat ini, kucing adalah salah satu hewan peliharaan terpopuler di dunia. Jumlah kucing ras hanyalah 1% dari seluruh kucing di dunia, sisanya adalah kucing dengan keturunan campuran, seperti kucing liar atau kucing kampung. Kucing juga merupakan jenis hewan peliharaan yang banyak diminati karena tingkah lakunya yang lucu dan menggemaskan.",
+          "fakta_menarik": "Kucing memiliki lebih dari 100 suara berbeda untuk berkomunikasi."
+        },
+        {
+          "id": "2",
+          "nama": "Anjing",
+          "gambar_artikel": "anjing.jpg",
+          "gambar_card": "anjing-card.jpg",
+          "deskripsi": "Anjing adalah hewan mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu, bahkan kemungkinan sudah sejak 100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi anjing yang belum begitu lama. Anjing telah berkembang menjadi ratusan ras dengan berbagai macam variasi. Warna rambut anjing bisa beraneka ragam, mulai dari putih sampai hitam, juga merah, abu-abu (sering disebut 'biru'), dan cokelat. Selain itu, anjing memiliki berbagai jenis rambut. Rambut anjing bisa lurus atau keriting, dan bertekstur kasar hingga lembut seperti benang wol.",
+          "fakta_menarik": "Anjing dapat mendengar suara dari jarak hingga 80 meter."
+        },
+        {
+          "id": "3",
+          "nama": "Hamster",
+          "gambar_artikel": "hamster.jpg",
+          "gambar_card": "hamster-card.jpg",
+          "deskripsi": "Hamster adalah binatang sejenis hewan pengerat, terdapat berbagai jenis di dunia dan hampir ada di tiap negara. Walaupun tubuhnya kecil, hamster membutuhkan kandang yang luas. Hamster termasuk ke dalam subfamili Cricetinae. Subfamili ini terbagi ke dalam sekitar 19 spesies, yang diklasifikasikan ke dalam enam atau tujuh genus. Hamster adalah makhluk omnivora. Makanan mereka biasanya butir padi, tetapi juga termasuk buah segar, akar, bagian hijau tumbuhan, invertebrata dan beberapa binatang kecil lainnya (serangga seperti belalang). Hamster membawa makanan mereka di pipi di mana di dalamnya terdapat kantung untuk dimasukkan ke dalam lubang makanan mereka. Namun, tidak semua makanan cocok untuk hamster. Beberapa makanan, seperti daun beracun dari tomat, bawang putih, sitrus menjadi makanan yang paling berbahaya untuk kesehatan hamster.",
+          "fakta_menarik": "Hamster menyimpan makanan di kantong pipinya untuk dikonsumsi nanti."
+        },
+        {
+          "id": "4",
+          "nama": "Merpati",
+          "gambar_artikel": "merpati.jpg",
+          "gambar_card": "merpati-card.jpg",
+          "deskripsi": "Merpati dan dara termasuk dalam famili Columbidae atau burung berparuh merpati dari ordo Columbiformes, yang mencakup sekitar 300 spesies burung kerabat pekicau. Dalam percakapan umum, istilah 'dara' dan 'merpati' dapat saling menggantikan. Dalam praktik ornitologi, terdapat suatu kecenderungan 'dara' digunakan untuk spesies yang lebih kecil dan 'merpati' untuk yang besar, tetapi hal ini tidak secara konsisten diterapkan, dan secara historis nama umum untuk burung-burung tersebut memiliki banyak variasi antara istilah 'dara' dan 'merpati'. Merpati dan dara adalah burung berbadan gempal dengan leher pendek dan paruh ramping pendek dengan cere berair. Dara dan merpati membangun sangkarnya dari ranting dan sisa-sisa lainnya, yang ditempatkan di pepohonan, birai, atau tanah, tergantung spesiesnya.",
+          "fakta_menarik": "Merpati dapat mengenali wajah manusia dan memiliki kemampuan orientasi yang luar biasa."
+        }
+      ]
+    }
+  ]
+}
